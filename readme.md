@@ -34,10 +34,10 @@ Depending on your system settings, Jupyter will either open a browser window, or
 ###Extra Tips
 Here are some resources you can visit for more insight on the project and improving your skills.
 
-Learning POS Tagging & Chunking in NLP (https://medium.com/greyatom/learning-pos-tagging-chunking-in-nlp-85f7f811a8cb)
-An introduction to part-of-speech tagging and the Hidden Markov Model (https://medium.freecodecamp.org/an-introduction-to-part-of-speech-tagging-and-the-hidden-markov-model-953d45338f24)
-Part of Speech Tagging with Hidden Markov Chain Models (https://towardsdatascience.com/part-of-speech-tagging-with-hidden-markov-chain-models-e9fccc835c0e)
-Part-Of-Speech Tagging for Social Media Texts (https://www.researchgate.net/publication/265794799_Part-Of-Speech_Tagging_for_Social_Media_Texts)
-Part of Speech Tagging (http://web.media.mit.edu/~havasi/MAS.S60/PNLP6.pdf)
-Part-of-Speech tagging tutorial with the Keras Deep Learning library (https://becominghuman.ai/part-of-speech-tagging-tutorial-with-the-keras-deep-learning-library-d7f93fa05537)
-Part-of-Speech Tagging for Code-mixed Indian Social Media, Text at ICON 2015 (https://arxiv.org/pdf/1601.01195.pdf)
+-[Learning POS Tagging & Chunking in NLP] (https://medium.com/greyatom/learning-pos-tagging-chunking-in-nlp-85f7f811a8cb)
+-[An introduction to part-of-speech tagging and the Hidden Markov Model] (https://medium.freecodecamp.org/an-introduction-to-part-of-speech-tagging-and-the-hidden-markov-model-953d45338f24)
+-[Part of Speech Tagging with Hidden Markov Chain Models] (https://towardsdatascience.com/part-of-speech-tagging-with-hidden-markov-chain-models-e9fccc835c0e)
+-[Part-Of-Speech Tagging for Social Media Texts] (https://www.researchgate.net/publication/265794799_Part-Of-Speech_Tagging_for_Social_Media_Texts)
+-[Part of Speech Tagging] (http://web.media.mit.edu/~havasi/MAS.S60/PNLP6.pdf)
+-[Part-of-Speech tagging tutorial with the Keras Deep Learning library] (https://becominghuman.ai/part-of-speech-tagging-tutorial-with-the-keras-deep-learning-library-d7f93fa05537)
+-[Part-of-Speech Tagging for Code-mixed Indian Social Media, Text at ICON 2015] (https://arxiv.org/pdf/1601.01195.pdf)
